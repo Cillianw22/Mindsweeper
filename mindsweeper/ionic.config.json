@@ -1,0 +1,7 @@
+{
+  "name": "mindsweeper",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
